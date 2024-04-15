@@ -1,7 +1,7 @@
 <h2 align="center">
   <a target="_blank">
   </a>
-  नमस्ते (Namaste), Welcome to the Profile!
+   Welcome to the Profile!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -28,7 +28,7 @@
 
 ## 👽 wh0am1 ? 🤔
 
-<h3 align="center"> Information Security Consultant👨‍💻| Security Researcher 🔎</h3>
+<h3 align="center"> 👨‍💻Security Researcher 🔎</h3>
 <p align="center">
 <a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
@@ -60,15 +60,6 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 
-***Talking about Personal Stuffs...***
-
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-🌱 I’m currently learning **Blue & Red Teaming, Web 3 Security** <br>
-👨🏽‍💻 Currently working on **Learning of Cybersecurity for 365 Days** <br>
-👯 I’m looking to collaborate with any **Open - Source contribution**<br>
-🔭 I’m currently working on : **Information Security, Application Security** <br>
-💬 Ask me about anything on Cybersecurity, I am happy to help <br>
-⚡ Fun fact : **No technology that’s connected to the Internet is unhackable**<br><br><br><br>
 
 ***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
@@ -77,15 +68,7 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 
 <hr>
-  <p align="center">
- <i><b>GitHub Contributions</b></i>
-  
-<!-- GitHub Readme Streak Stats - https://github.com/pathakabhi24/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/pathakabhi24/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pathakabhi24streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pathakabhi24&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 

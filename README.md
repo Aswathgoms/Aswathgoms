@@ -84,10 +84,7 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 
 
-## ⚡ GitHub Stats
-
-##<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aswathgoms&show_icons=true&count_private=true&theme=gruvbox" />
-##<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathgoms&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathgoms&layout=compact&count_private=true&theme=gruvbox" />
 
 
 Show some ❤️ by starring ⭐ some of the repositories!

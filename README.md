@@ -16,7 +16,7 @@
 <br/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Cyber+Security+Enthusiast%F0%9F%92%BB;A+Cyber+Security+Researcher💻;)](https://git.io/typing-svg)
 
 
 
@@ -30,11 +30,8 @@
 
 <h3 align="center"> 👨‍💻Security Researcher 🔎</h3>
 <p align="center">
-<a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
-<a href="mailto:pathakabhi684@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/gomathi-nayagam-r-91655b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
+<a href="mailto:aswath@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </a>
 </p>
 </p>
@@ -89,11 +86,11 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 ## ⚡ GitHub Stats
 
-##<img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
-##<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
+##<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aswathgoms&show_icons=true&count_private=true&theme=gruvbox" />
+##<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathgoms&layout=compact&count_private=true&theme=gruvbox" />
 
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
 

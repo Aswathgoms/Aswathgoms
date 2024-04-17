@@ -62,8 +62,7 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 
 
-***
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+
 
 
 
@@ -83,11 +82,6 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathgoms&layout=compact&count_private=true&theme=gruvbox" />
-
-
-Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
 
